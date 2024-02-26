@@ -1,0 +1,6 @@
+numpy
+pyglm
+pyopengl
+glfw
+ribs
+matplotlib

@@ -1,0 +1,12 @@
+dataFile: bonsai.raw
+size: 256, 256, 256
+bytesPerVoxel: 1
+bigEndian: True
+scaleFactor: 1.0, 1.0, 1.0
+enableNormalization: True
+headerSkip: 0
+viewerPosition: 0.9, 0, -0.7
+lightPosition: 0.9, 0, -0.6
+origin: 0, 0, 0
+mainAxis: 0, 1, 0
+name: bonsai
